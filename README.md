@@ -29,8 +29,21 @@ Currently, I'm focusing on learning the IBM fullstack course, which goes further
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32" height="32" />
 
 ---
-Github stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dophucduy&layout=compact)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dophucduy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dophucduy&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dophucduy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📚 My Other Projects
