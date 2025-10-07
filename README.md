@@ -29,6 +29,9 @@ Currently, I'm focusing on learning the IBM fullstack course, which goes further
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32" height="32" />
 
 ---
+Github stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dophucduy&layout=compact)
+---
 
 ## 📚 My Other Projects
 
