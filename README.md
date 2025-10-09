@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Duy Phuc (dophucduy)
+# 👋 Hi, I'm Zwi (dophucduy)
 
 Welcome to my GitHub profile!  
 I'm a passionate developer with experience in building real-world applications using **Java**, **C# (.NET Framework)**, and **Python**.  
