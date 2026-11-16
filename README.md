@@ -46,6 +46,10 @@ Currently, I'm focusing on learning the IBM fullstack course, which goes further
 
 ---
 
+## 🆕 Latest Repositories
+<!-- REPOS:START -->
+<!-- REPOS:END -->
+
 ## 📚 My Other Projects
 
 - [RAMManagement System](https://github.com/dophucduy/RAMManagement-System) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" /> Java

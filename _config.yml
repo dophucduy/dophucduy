@@ -1,0 +1,16 @@
+title: Zwi (Duy DO)
+description: Developer — Java, C# (.NET), Python & JavaScript.
+author: Duy DO
+email: doychannel1802@gmail.com
+url: "https://dophucduy.github.io"
+baseurl: "/dophucduy"
+
+theme: minima
+github_username: dophucduy
+linkedin_username: doychannel1802
+
+header_pages: []
+
+exclude:
+  - README.md
+
