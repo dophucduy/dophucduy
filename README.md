@@ -48,6 +48,12 @@ Currently, I'm focusing on learning the IBM fullstack course, which goes further
 
 ## 🆕 Latest Repositories
 <!-- REPOS:START -->
+- [Dem_Niem_Tin](https://github.com/dophucduy/Dem_Niem_Tin) — "ĐÊM NIỀM TIN" is a browser-based classroom social-deduction game inspired by Werewolf/Mafia.  The game is designed for:  - 1 Host / Lecturer - 8 Player teams. The game should teach through gameplay rather than through passive presentation. · `TypeScript`
+- [AABW26_PatchBrief](https://github.com/dophucduy/AABW26_PatchBrief) · `C#`
+- [van-bai-lat-ngua](https://github.com/dophucduy/van-bai-lat-ngua) · `CSS`
+- [SQOA-2026](https://github.com/dophucduy/SQOA-2026) · `Jupyter Notebook`
+- [CBA](https://github.com/dophucduy/CBA) — Car Booking App  · `TypeScript`
+- [AWS_InternshipReport_FCJ](https://github.com/dophucduy/AWS_InternshipReport_FCJ) — workshop project for internship at AWS · `HTML`
 <!-- REPOS:END -->
 
 ## 📚 My Other Projects
